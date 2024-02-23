@@ -1,0 +1,6 @@
+{
+ "sender_email": "my_email_address",
+ "receiver_email": "my_academic_email",
+ "password": "application_password",
+ "target_dir": "aboslute_dirpath_to_monitor"
+}
